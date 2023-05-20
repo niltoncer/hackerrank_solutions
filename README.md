@@ -1,0 +1,1 @@
+Todo dia (ou quase todo dia), resolvendo um desafio do HackerRank em Python. Já resolvi bastante deles mas acabei nao tendo o insight de salva-los localmente, por isso, a partir de agora postarei todos aqui.
